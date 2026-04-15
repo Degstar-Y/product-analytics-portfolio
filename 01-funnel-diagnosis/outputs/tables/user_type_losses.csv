@@ -1,0 +1,3 @@
+user_type,sessions,purchases,purchase_cr,non_purchase_sessions,loss_share_total_sessions,loss_share_total_non_purchases
+returning,119947,33562,0.2798069147206683,86385,0.719875,0.9995950011571395
+new,53,18,0.33962264150943394,35,0.0002916666666666667,0.00040499884286044897
